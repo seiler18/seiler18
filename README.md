@@ -98,7 +98,7 @@ Mi trayectoria laboral abarca desde operaciones logísticas especializadas y ges
 **[PrinterAgent](https://github.com/seiler18/printerAgent)**
 - Agente en Java para ejecutar SNMPWalk en impresoras y recopilar información de OIDs.
 
-**Mas detalles de mis proyectos : [Curriculo web](https://seiler18.github.io/Curriculo/)
+**Mas detalles de mis proyectos** : [Curriculo web](https://seiler18.github.io/Curriculo/)
 
 ## 🎓 Formación
 - **Ingeniería Civil**: Formación que me brinda una perspectiva única en la resolución de problemas y la planificación estratégica.
