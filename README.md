@@ -91,15 +91,18 @@ Mi trayectoria laboral abarca desde operaciones logísticas especializadas y ges
 
 ## 🛠️ Proyectos Destacados
 
-**[AppManageEvents](https://github.com/jesusseiler/appmanageevents)**
+**[AppManageEvents](https://github.com/seiler18/AppManageEvents)**
 - Aplicación para gestionar eventos y asignar salones, desarrollada con Spring Boot y Thymeleaf.
 - Integración con Docker y Jenkins para CI/CD.
 
-**[PrinterAgent](https://github.com/jesusseiler/printeragent)**
+**[PrinterAgent](https://github.com/seiler18/printerAgent)**
 - Agente en Java para ejecutar SNMPWalk en impresoras y recopilar información de OIDs.
+
+**Mas detalles de mis proyectos : [Curriculo web](https://seiler18.github.io/Curriculo/)
 
 ## 🎓 Formación
 - **Ingeniería Civil**: Formación que me brinda una perspectiva única en la resolución de problemas y la planificación estratégica.
+- **Técnico en programación y analisis de sistemas** : Como formación adicional , lo cual me hace un principal apoyo en cualquier area en la que me desarrolle.
 
 ## 📫 Conéctate conmigo
 - [LinkedIn](https://www.linkedin.com/in/jesusseiler)
