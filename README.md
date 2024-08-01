@@ -105,8 +105,9 @@ Mi trayectoria laboral abarca desde operaciones logísticas especializadas y ges
 - **Técnico en programación y analisis de sistemas** : Como formación adicional , lo cual me hace un principal apoyo en cualquier area en la que me desarrolle.
 
 ## 📫 Conéctate conmigo
-- [LinkedIn](https://www.linkedin.com/in/jesusseiler)
-- [GitHub](https://github.com/jesusseiler)
-- [Email](mailto:jesus.seiler@example.com)
+- [LinkedIn](https://www.linkedin.com/in/ichbinseiler)
+- [GitHub](https://github.com/seiler18)
+- [Email](mailto:ichbinseiler@gmail.com)
 
 ¡Siempre estoy en busca de nuevos desafíos y oportunidades para aplicar mis conocimientos y experiencia en proyectos que marquen la diferencia! 👍
+¡Aprender es esencial, innovar es una necesidad, todo sea por progresar! 
