@@ -91,9 +91,12 @@ Mi trayectoria laboral abarca desde operaciones logísticas especializadas y ges
 
 ## 🛠️ Proyectos Destacados
 
-**[AppManageEvents](https://github.com/seiler18/AppManageEvents)**
+**[AppManageEvents](https://appmanageevents-6fe8c2902944.herokuapp.com/)**
 - Aplicación para gestionar eventos y asignar salones, desarrollada con Spring Boot y Thymeleaf.
 - Integración con Docker y Jenkins para CI/CD.
+
+**[RegistroPersona](https://stormy-taiga-93896-fe946738c15d.herokuapp.com/)**
+- Aplicación CRUD basica para mantenedor de "personas", desarrollada con Spring Boot y Thymeleaf.
 
 **[PrinterAgent](https://github.com/seiler18/printerAgent)**
 - Agente en Java para ejecutar SNMPWalk en impresoras y recopilar información de OIDs.
