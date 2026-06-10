@@ -1,116 +1,141 @@
-# 👨‍💻 Jesús Seiler - Full Stack Developer
+# 👨‍💻 Jesús Seiler
 
-👋 ¡Hola! Soy Jesús Seiler, un Ingeniero Civil reconvertido en Desarrollador Web Full Stack con un apasionado interés en la tecnología y la innovación.
+👋 ¡Hola! Soy Ingeniero Civil y Analista de Sistemas, con un perfil transversal que combina desarrollo de software, gestión de sistemas de TI y administración de sistemas de gestión ISO. Me muevo con comodidad entre el código y los procesos, lo que me permite aportar desde la implementación técnica hasta la mejora continua organizacional.
 
-## 🚀 Sobre mí
-Mi trayectoria laboral abarca desde operaciones logísticas especializadas y gestión de transacciones SAP en Nestlé Chile SA, hasta la administración eficiente de reservas y atención al cliente en MyTripRentACar. Mi enfoque siempre ha sido la excelencia en todo lo que hago, impulsado por mi dedicación al aprendizaje constante y a la mejora continua.
+> *"Aprender es esencial, innovar es una necesidad, todo sea por progresar."*
+
+---
+
+## 🧩 ¿Qué hago?
+
+Tengo experiencia en dos grandes frentes que se complementan:
+
+- **Desarrollo de software**: aplicaciones web full stack, automatización, integraciones y herramientas internas.
+- **Gestión y seguridad TI**: administración de sistemas, implementación de controles, cumplimiento normativo y continuidad operacional.
+
+---
 
 ## 🔧 Habilidades Técnicas
 
-<table>
-<tr>
-<td>
-  <h4>Desarrollo Web</h4>
-  <img src="https://img.shields.io/badge/-JavaScript-FFD700?logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
-</td>
-<td>
-  <h4>Backend</h4>
-  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring&logoColor=white" alt="Spring Boot" />
-</td>
-<td>
-  <h4>Herramientas</h4>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/-Maven-C71A36?logo=apache-maven&logoColor=white" alt="Maven" />
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git" />
-</td>
-<td>
-  <h4>Base de Datos</h4>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white" alt="Oracle" />
-</td>
-<td>
-  <h4>Otros</h4>
-  <img src="https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/-SAP-00376B?logo=sap&logoColor=white" alt="SAP" />
-</td>
-</tr>
-</table>
+### Desarrollo Web & Backend
 
-## 🌍 Idiomas
+![JavaScript](https://img.shields.io/badge/-JavaScript-FFD700?logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
+![Groovy](https://img.shields.io/badge/-Groovy-4298B8?logo=apache-groovy&logoColor=white)
 
-<table>
-<tr>
-<td>
-  <h4>Español</h4>
-  <p>Nativo</p>
-</td>
-<td>
-  <h4>Inglés</h4>
-  <p>Avanzado</p>
-</td>
-</tr>
-</table>
+### Base de Datos
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
+
+### DevOps & Herramientas
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apache-maven&logoColor=white)
+
+### Administración & Seguridad TI
+
+![Active Directory](https://img.shields.io/badge/-Active%20Directory-0078D4?logo=microsoft&logoColor=white)
+![BitDefender](https://img.shields.io/badge/-BitDefender-ED1C24?logo=bitdefender&logoColor=white)
+![SharePoint](https://img.shields.io/badge/-SharePoint-0078D4?logo=microsoft-sharepoint&logoColor=white)
+![SAP](https://img.shields.io/badge/-SAP-00376B?logo=sap&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
+
+---
+
+## 🏛️ Sistemas de Gestión ISO
+
+Una dimensión importante de mi trabajo actual es la gestión, mantención e integración de sistemas normativos. Actúo como responsable técnico y auditor interno en las siguientes normas:
+
+| Norma | Ámbito |
+|---|---|
+| **ISO 9001** | Calidad |
+| **ISO 14001** | Medio Ambiente |
+| **ISO 45001** | Seguridad y Salud en el Trabajo |
+| **ISO/IEC 27001** | Seguridad de la Información |
+| **ISO 22301** | Continuidad del Negocio |
+| **ISO/IEC 20000-1** | Gestión de Servicios TI |
+
+**Lo que hago en este ámbito:**
+- Gestión documental centralizada en SharePoint (procedimientos, registros, matrices)
+- Implementación y seguimiento de controles de seguridad de la información (Anexo A – ISO 27001)
+- Coordinación de auditorías internas y seguimiento de hallazgos
+- Administración de repositorios normativos y trazabilidad documental
+- Integración de sistemas de gestión: trinorma (9001/14001/45001) + seguridad + continuidad + servicios TI
+
+---
 
 ## 💼 Experiencia Profesional
 
-<table>
-<tr>
-<td>
-  <h4>Opciones SA</h4>
-  <ul>
-    <li>Operaciones logísticas especializadas</li>
-    <li>Gestión de transacciones y módulos en OFbiz</li>
-    <li>Ingeniero en sistemas trainee</li>
-    <li>Administrativo trainee</li>
-    <li>Tecnologías: Vue, Groovy, Java</li>
-  </ul>
-</td>
-<td>
-  <h4>Nestlé Chile SA</h4>
-  <ul>
-    <li>Operaciones logísticas especializadas</li>
-    <li>Gestión de transacciones SAP</li>
-  </ul>
-</td>
-<td>
-  <h4>MyTripRentACar</h4>
-  <ul>
-    <li>Administración de reservas</li>
-    <li>Atención al cliente</li>
-  </ul>
-</td>
-</tr>
-</table>
+### OPCIONES S.A. *(actual)*
+- Analista Administrativo / Analista de Sistemas
+- Gestión y mantención de sistemas ISO integrados (seis normas)
+- Auditor interno certificado
+- Administración de Active Directory y consola BitDefender
+- Gestión documental en SharePoint (grupo OPERACIONES – CERTIFICACIONES)
+- Soporte transversal a áreas operativas, administrativas y TI
+- Desarrollo y mantención de módulos en OFbiz (Vue, Groovy, Java)
+
+### Nestlé Chile S.A.
+- Operaciones logísticas especializadas
+- Gestión de transacciones en SAP (módulos logísticos)
+
+### MyTripRentACar
+- Administración de reservas y atención al cliente
+
+---
 
 ## 🛠️ Proyectos Destacados
 
 **[AppManageEvents](https://appmanageevents-6fe8c2902944.herokuapp.com/)**
-- Aplicación para gestionar eventos y asignar salones, desarrollada con Spring Boot y Thymeleaf.
-- Integración con Docker y Jenkins para CI/CD.
+Aplicación para gestionar eventos y asignación de salones.
+Stack: Spring Boot · Thymeleaf · Docker · Jenkins (CI/CD)
+
+---
 
 **[RegistroPersona](https://stormy-taiga-93896-fe946738c15d.herokuapp.com/)**
-- Aplicación CRUD basica para mantenedor de "personas", desarrollada con Spring Boot y Thymeleaf.
+Aplicación CRUD para mantención de personas.
+Stack: Spring Boot · Thymeleaf
+
+---
 
 **[PrinterAgent](https://github.com/seiler18/printerAgent)**
-- Agente en Java para ejecutar SNMPWalk en impresoras y recopilar información de OIDs.
+Agente en Java para ejecutar SNMPWalk en impresoras y recopilar datos de OIDs.
+Stack: Java · SNMP
 
-**Mas detalles de mis proyectos** : [Curriculo web](https://seiler18.github.io/Curriculo/)
+---
+
+📂 **Más detalles:** [Currículum Web](https://seiler18.github.io/Curriculo/)
+
+---
 
 ## 🎓 Formación
-- **Ingeniería Civil**: Formación que me brinda una perspectiva única en la resolución de problemas y la planificación estratégica.
-- **Técnico en programación y analisis de sistemas** : Como formación adicional , lo cual me hace un principal apoyo en cualquier area en la que me desarrolle.
+
+- **Ingeniería Civil** — Base analítica y de planificación estratégica
+- **Técnico en Programación y Análisis de Sistemas** — Soporte técnico transversal
+- **Auditor Interno ISO** — Certificado en normas de gestión integradas
+
+---
+
+## 🌍 Idiomas
+
+| Español | Inglés |
+|---|---|
+| Nativo | Avanzado |
+
+---
 
 ## 📫 Conéctate conmigo
-- [LinkedIn](https://www.linkedin.com/in/ichbinseiler)
-- [GitHub](https://github.com/seiler18)
-- [Email](mailto:ichbinseiler@gmail.com)
 
-¡Siempre estoy en busca de nuevos desafíos y oportunidades para aplicar mis conocimientos y experiencia en proyectos que marquen la diferencia! 👍
-¡Aprender es esencial, innovar es una necesidad, todo sea por progresar! 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ichbinseiler)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/seiler18)
+[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:ichbinseiler@gmail.com)
