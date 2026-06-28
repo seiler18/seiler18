@@ -1,17 +1,32 @@
 # 👨‍💻 Jesús Seiler
 
-👋 ¡Hola! Soy Ingeniero Civil y Analista de Sistemas, con un perfil transversal que combina desarrollo de software, gestión de sistemas de TI y administración de sistemas de gestión ISO. Me muevo con comodidad entre el código y los procesos, lo que me permite aportar desde la implementación técnica hasta la mejora continua organizacional.
+**Ingeniero Civil · Analista de Sistemas · Auditor Interno ISO**
+Gestión y seguridad de TI · Sistemas integrados de gestión
 
 > *"Aprender es esencial, innovar es una necesidad, todo sea por progresar."*
 
 ---
 
+## 🎯 Declaración profesional
+
+Soy un profesional de perfil transversal que se mueve con comodidad entre el código y los procesos: combino el desarrollo de software full stack con la gestión de sistemas de TI y la administración de sistemas de gestión ISO. Esa doble mirada —técnica y organizacional— me permite aportar tanto en la implementación concreta de una solución como en el orden, la trazabilidad y la mejora continua que la sostienen en el tiempo.
+
+Mis principales fortalezas son la **capacidad de integrar dos mundos** que suelen ir por separado (la ingeniería de software y la gobernanza de TI), el **rigor analítico** heredado de mi formación en ingeniería civil aplicado al diseño de procesos y controles, y una **disposición permanente al aprendizaje** que me lleva a incorporar nuevas tecnologías y marcos de trabajo de forma continua.
+
+Me mueven la **protección de la información y de las personas**, la **mejora continua** como hábito más que como meta, y el compromiso de hacer las cosas de forma **correcta, ordenada y verificable**. Me apasiona automatizar lo repetitivo, dar estructura a lo desordenado y conectar la tecnología con los objetivos reales del negocio.
+
+Busco aportar a organizaciones que valoren un perfil capaz de **construir y mantener** a la vez: desarrollar herramientas que resuelvan problemas concretos y, al mismo tiempo, sostener la seguridad, la continuidad y la calidad de los servicios de TI sobre los que esas herramientas operan.
+
+---
+
 ## 🧩 ¿Qué hago?
 
-Tengo experiencia en dos grandes frentes que se complementan:
+Trabajo sobre dos grandes frentes que se complementan:
 
-- **Desarrollo de software**: aplicaciones web full stack, automatización, integraciones y herramientas internas.
-- **Gestión y seguridad TI**: administración de sistemas, implementación de controles, cumplimiento normativo y continuidad operacional.
+- **Desarrollo de software** — aplicaciones web full stack, automatización, integraciones y herramientas internas.
+- **Gestión y seguridad de TI** — administración de sistemas, implementación de controles, seguridad de la información, continuidad operacional y gestión de servicios.
+
+Actualmente en **OPCIONES S.A.** (Puerto Montt, Chile), dando soporte transversal a las áreas operativas, administrativas y de TI, y liderando la gestión integrada de seis sistemas de certificación.
 
 ---
 
@@ -49,12 +64,17 @@ Tengo experiencia en dos grandes frentes que se complementan:
 ![SharePoint](https://img.shields.io/badge/-SharePoint-0078D4?logo=microsoft-sharepoint&logoColor=white)
 ![SAP](https://img.shields.io/badge/-SAP-00376B?logo=sap&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
+![ITIL](https://img.shields.io/badge/-ITIL-0072C6?logo=axelos&logoColor=white)
+
+### Otros
+
+`OFbiz` · `Automatización de procesos` · `Gestión documental` · `Análisis de procesos`
 
 ---
 
 ## 🏛️ Sistemas de Gestión ISO
 
-Una dimensión importante de mi trabajo actual es la gestión, mantención e integración de sistemas normativos. Actúo como responsable técnico y auditor interno en las siguientes normas:
+Una dimensión central de mi trabajo actual es la gestión, mantención e integración de sistemas normativos. Actúo como responsable técnico y auditor interno en las siguientes normas:
 
 | Norma | Ámbito |
 |---|---|
@@ -66,63 +86,71 @@ Una dimensión importante de mi trabajo actual es la gestión, mantención e int
 | **ISO/IEC 20000-1** | Gestión de Servicios TI |
 
 **Lo que hago en este ámbito:**
-- Gestión documental centralizada en SharePoint (procedimientos, registros, matrices)
-- Implementación y seguimiento de controles de seguridad de la información (Anexo A – ISO 27001)
-- Coordinación de auditorías internas y seguimiento de hallazgos
-- Administración de repositorios normativos y trazabilidad documental
-- Integración de sistemas de gestión: trinorma (9001/14001/45001) + seguridad + continuidad + servicios TI
+
+- Gestión documental centralizada en SharePoint (procedimientos, registros, matrices).
+- Implementación y seguimiento de controles de seguridad de la información (Anexo A – ISO/IEC 27001).
+- Coordinación de auditorías internas y seguimiento de hallazgos.
+- Administración de repositorios normativos y trazabilidad documental.
+- Integración de sistemas de gestión: trinorma (9001 / 14001 / 45001) + seguridad + continuidad + servicios TI.
 
 ---
 
 ## 💼 Experiencia Profesional
 
-### OPCIONES S.A. *(actual)*
-- Analista Administrativo / Analista de Sistemas
-- Gestión y mantención de sistemas ISO integrados (seis normas)
-- Auditor interno certificado
-- Administración de Active Directory y consola BitDefender
-- Gestión documental en SharePoint (grupo OPERACIONES – CERTIFICACIONES)
-- Soporte transversal a áreas operativas, administrativas y TI
-- Desarrollo y mantención de módulos en OFbiz (Vue, Groovy, Java)
+### OPCIONES S.A. — Puerto Montt, Chile *(actual)*
+**Analista Administrativo / Analista de Sistemas**
+
+- Gestión y mantención de sistemas ISO integrados (seis normas) como responsable técnico y auditor interno.
+- Administración de SharePoint *OPERACIONES – CERTIFICACIONES* (repositorio central de documentación).
+- Implementación y mantenimiento del SGSI (ISO/IEC 27001), continuidad del negocio (ISO 22301) y gestión de servicios TI (ISO/IEC 20000-1).
+- Administración de Active Directory y consola BitDefender.
+- Desarrollo y mantención de módulos en OFbiz (Vue.js, Groovy, Java) y automatización de procesos administrativos.
+- Soporte transversal a áreas operativas, administrativas y de TI.
 
 ### Nestlé Chile S.A.
-- Operaciones logísticas especializadas
-- Gestión de transacciones en SAP (módulos logísticos)
+**Operaciones Logísticas & Gestión SAP**
+
+- Operaciones logísticas especializadas y coordinación de procesos críticos.
+- Gestión de transacciones en módulos logísticos de SAP.
 
 ### MyTripRentACar
-- Administración de reservas y atención al cliente
+**Administrador de Reservas & Atención al Cliente**
+
+- Administración integral del sistema de reservas y servicio al cliente.
 
 ---
 
 ## 🛠️ Proyectos Destacados
 
-**[AppManageEvents](https://appmanageevents-6fe8c2902944.herokuapp.com/)**
-Aplicación para gestionar eventos y asignación de salones.
-Stack: Spring Boot · Thymeleaf · Docker · Jenkins (CI/CD)
+### [AppManageEvents](https://appmanageevents-6fe8c2902944.herokuapp.com/)
+Aplicación web para la gestión de eventos y asignación de salones.
+**Stack:** Spring Boot · Thymeleaf · Docker · Jenkins (CI/CD)
 
----
+### [RegistroPersona](https://stormy-taiga-93896-fe946738c15d.herokuapp.com/)
+Aplicación CRUD para la mantención de personas.
+**Stack:** Spring Boot · Thymeleaf
 
-**[RegistroPersona](https://stormy-taiga-93896-fe946738c15d.herokuapp.com/)**
-Aplicación CRUD para mantención de personas.
-Stack: Spring Boot · Thymeleaf
-
----
-
-**[PrinterAgent](https://github.com/seiler18/printerAgent)**
+### [PrinterAgent](https://github.com/seiler18/printerAgent)
 Agente en Java para ejecutar SNMPWalk en impresoras y recopilar datos de OIDs.
-Stack: Java · SNMP
+**Stack:** Java · SNMP
 
----
+### Gestión ISO – OPCIONES *(en desarrollo)*
+Plataforma centralizada para la gestión integrada de los sistemas certificados, con interfaz interactiva de filtrado y búsqueda por norma. Compartida en modo lectura con el Comité de Seguridad de la Información (CSI) y sincronizada con la documentación en SharePoint.
+
+### Integración Documental – ISO 27001
+Estructuración modular de los controles y procedimientos de seguridad de la información: políticas, accesos, cambios, incidentes y gestión de activos.
 
 📂 **Más detalles:** [Currículum Web](https://seiler18.github.io/Curriculo/)
 
 ---
 
-## 🎓 Formación
+## 🎓 Formación & Certificaciones
 
-- **Ingeniería Civil** — Base analítica y de planificación estratégica
-- **Técnico en Programación y Análisis de Sistemas** — Soporte técnico transversal
-- **Auditor Interno ISO** — Certificado en normas de gestión integradas
+- **Ingeniería Civil** — Base analítica y de planificación estratégica.
+- **Técnico en Programación y Análisis de Sistemas** — Soporte técnico transversal.
+- **Auditor Interno en Normas ISO** — Competencia en auditoría de sistemas integrados.
+- **ITIL & Gestión de Servicios TI** — Fundamentos y mejores prácticas.
+- **Seguridad de la Información & SGSI** — ISO/IEC 27001, 27002 y normativas asociadas.
 
 ---
 
@@ -139,3 +167,11 @@ Stack: Java · SNMP
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ichbinseiler)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/seiler18)
 [![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:ichbinseiler@gmail.com)
+
+---
+
+💡 **Intereses:** automatización de procesos, transformación digital, sistemas integrados, seguridad de la información, continuidad del negocio y mejora continua.
+
+<p align="center">
+  <img src="https://github.com/seiler18/Curriculo/blob/main/assets/img/logo%20jesus%20seiler.jpeg" alt="Jesús Seiler Logo" style="width: 50%; max-width: 400px; height: auto;">
+</p>
