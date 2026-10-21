@@ -126,8 +126,8 @@ Trabajo real, funcionando hoy. Todo el portafolio, en un solo lugar: **[seiler18
 
 - **[FinanzasMaker](https://seiler18.github.io/FinanzasMaker/)** — Gastos, ingresos e inversiones por día, mes y año, leídos de los avisos de los bancos (correo y notificaciones del celular), sin pedir claves bancarias. Base en Supabase con acceso por fila; la app del celular manda cada aviso y la página suma, compara y da consejos de ahorro.
   **Stack:** Vite · Supabase (RLS) · Apps Script · Kotlin / Jetpack Compose
-- **[Regenera Market](https://regenera-market.vercel.app/)** — Marketplace multi-proveedor de productos, experiencias y servicios regenerativos para el turismo colombiano, con registro con segundo factor, panel de administración y comunidad. Proyecto compartido con otra persona.
-  **Stack:** Next.js · Supabase · Vercel
+- **[Seregenera](https://seregenera.com)** — Marketplace multi-proveedor de productos, experiencias y servicios regenerativos para el turismo colombiano, con registro con segundo factor, panel de administración y comunidad. Proyecto compartido con otra persona.
+  **Stack:** Next.js · MariaDB · Node.js en Hostinger
 - **[VentasMaker](https://seiler18.github.io/VentasMaker/)** — Catálogo, punto de venta e inventario para una tienda, sin mensualidad: pedido por WhatsApp, venta con lector de códigos, reportes y etiquetas.
   **Stack:** JavaScript · Google Sheets con Apps Script como base de datos
 - **[Sitio corporativo Opciones S.A.](https://seiler18.github.io/OPCIONES/)** — Nuevo sitio de una empresa chilena de soluciones TI y data center: tema propio de WordPress sin plugins, formulario con protección anti-spam y guía de entrega para el área de Sistemas (se publica la maqueta).
