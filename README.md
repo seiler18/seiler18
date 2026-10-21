@@ -124,7 +124,7 @@ Una dimensión central de mi trabajo actual es la gestión, mantención e integr
 
 Trabajo real, funcionando hoy. Todo el portafolio, en un solo lugar: **[seiler18.github.io](https://seiler18.github.io/)**.
 
-- **[FinanzasMaker](https://seiler18.github.io/FinanzasMaker/)** — Gastos, ingresos e inversiones por día, mes y año, leídos de los avisos de los bancos (correo y notificaciones del celular), sin pedir claves bancarias. Base en Supabase con acceso por fila; la app del celular manda cada aviso y la página suma, compara y da consejos de ahorro.
+- **[FinanzasMaker](https://seiler18.github.io/FinanzasMaker/)** — Gastos, ingresos e inversiones por día, mes y año, leídos de los avisos de los bancos, sin pedir claves bancarias. Una app Android propia escucha las notificaciones de los bancos y las vuelve movimientos (y también muestra el resumen y deja anotar y editar); la base está en Supabase con acceso por fila, y la página suma, compara, da consejos de ahorro y lleva la cartera de acciones. Gmail queda solo para Fintual.
   **Stack:** Vite · Supabase (RLS) · Apps Script · Kotlin / Jetpack Compose
 - **[Seregenera](https://seregenera.com)** — Marketplace multi-proveedor de productos, experiencias y servicios regenerativos para el turismo colombiano, con registro con segundo factor, panel de administración y comunidad. Proyecto compartido con otra persona.
   **Stack:** Next.js · MariaDB · Node.js en Hostinger
