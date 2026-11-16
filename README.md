@@ -1,7 +1,7 @@
 # 👨‍💻 Jesús Seiler
 
 **Ingeniero Civil · Analista de Sistemas · Auditor Interno ISO**
-Gestión y seguridad de TI · Sistemas integrados de gestión
+Desarrollo ERP · Datos y automatización · Sistemas integrados de gestión
 
 > *"Aprender es esencial, innovar es una necesidad, todo sea por progresar."*
 
@@ -26,7 +26,7 @@ Trabajo sobre dos grandes frentes que se complementan:
 - **Desarrollo de software** — aplicaciones web full stack, automatización, integraciones y herramientas internas.
 - **Gestión y seguridad de TI** — administración de sistemas, implementación de controles, seguridad de la información, continuidad operacional y gestión de servicios.
 
-Actualmente en **OPCIONES S.A.** (Puerto Montt, Chile), dando soporte transversal a las áreas operativas, administrativas y de TI, y liderando la gestión integrada de seis sistemas de certificación.
+Actualmente en **OPCIONES S.A.** (Puerto Montt, Chile): desarrollo sobre el ERP Apache OFBiz, analítica y automatización para gerencia, gestión de la cartera de contratos de arriendo y sistema integrado de gestión en seis normas ISO.
 
 ---
 
@@ -34,6 +34,11 @@ Actualmente en **OPCIONES S.A.** (Puerto Montt, Chile), dando soporte transversa
 
 ### Desarrollo Web & Backend
 
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-512BD4?logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFD700?logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
@@ -46,14 +51,15 @@ Actualmente en **OPCIONES S.A.** (Puerto Montt, Chile), dando soporte transversa
 
 ### Base de Datos
 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
 
 ### DevOps & Herramientas
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apache-maven&logoColor=white)
 
@@ -68,7 +74,7 @@ Actualmente en **OPCIONES S.A.** (Puerto Montt, Chile), dando soporte transversa
 
 ### Otros
 
-`OFbiz` · `Automatización de procesos` · `Gestión documental` · `Análisis de procesos`
+`Apache OFBiz` · `DB2 / AS-400` · `Power Automate` · `Selenium / Playwright` · `Excel avanzado` · `Desarrollo con agentes de IA (Claude Code)`
 
 ---
 
@@ -97,15 +103,15 @@ Una dimensión central de mi trabajo actual es la gestión, mantención e integr
 
 ## 💼 Experiencia Profesional
 
-### OPCIONES S.A. — Puerto Montt, Chile *(actual)*
-**Analista Administrativo / Analista de Sistemas**
+### OPCIONES S.A. — Puerto Montt, Chile *(ago 2023 – actualidad)*
+**Analista Administrativo y de Sistemas**
 
-- Gestión y mantención de sistemas ISO integrados (seis normas) como responsable técnico y auditor interno.
-- Administración de SharePoint *OPERACIONES – CERTIFICACIONES* (repositorio central de documentación).
-- Implementación y mantenimiento del SGSI (ISO/IEC 27001), continuidad del negocio (ISO 22301) y gestión de servicios TI (ISO/IEC 20000-1).
-- Administración de Active Directory y consola BitDefender.
-- Desarrollo y mantención de módulos en OFbiz (Vue.js, Groovy, Java) y automatización de procesos administrativos.
-- Soporte transversal a áreas operativas, administrativas y de TI.
+- **ERP Apache OFBiz:** módulo de analítica de arriendos (vencimientos, facturación, cierres y ubicación de equipos cruzada en vivo con AS/400); bitácora colaborativa por contrato con avisos por correo, en producción; mejoras de bodega y ventas y lectura de contadores de impresoras por SNMP.
+- **Datos para gerencia:** réplica del reporte oficial de contratos con 99,99 % de coincidencia; auditoría del costo promedio ponderado del ERP con 34/34 recepciones reproducidas.
+- **Automatización:** reportes semanales y mensuales desatendidos para gerencia y ventas; registro de consumos para ISO 14001.
+- **Contratos de arriendo:** a cargo del control administrativo y del cierre de la cartera.
+- **Sistema integrado de gestión:** auditor interno y miembro del comité. Certificación 22301 / 20000-1 y seguimiento 27001 sin no conformidades; Declaración de Aplicabilidad de 65 % a 88 % de implementación.
+- **Plataforma:** Active Directory, GPO, Entra ID, BitDefender, SharePoint.
 
 ### Nestlé Chile S.A.
 **Operaciones Logísticas & Gestión SAP**
@@ -147,15 +153,13 @@ Registro de personas y de sus mascotas, con cuentas de usuario y dos niveles de 
 Cartelera de eventos con venta de entradas: pago con Webpay Plus, entradas con código QR de un solo uso, avisos por correo y un panel para crear eventos con su máximo de entradas y controlar el acceso en la puerta. Reemplaza a AppManageEvents (Spring Boot), que queda archivado como [AppManageEvents_JavaSpring](https://github.com/seiler18/AppManageEvents_JavaSpring).
 **Stack:** Next.js · React · TypeScript · Tailwind · MariaDB · Webpay Plus
 
-### [PrinterAgent](https://github.com/seiler18/printerAgent)
-Agente en Java para ejecutar SNMPWalk en impresoras y recopilar datos de OIDs.
-**Stack:** Java · SNMP
+### [ISO Toolkit](https://github.com/seiler18/iso-toolkit)
+Material abierto para implementar un sistema de gestión ISO integrado en una pyme: mapa Anexo SL de seis normas por subapartado, los 93 controles del Anexo A de ISO/IEC 27001 y un generador de la estructura del sistema, la lista maestra y la Declaración de Aplicabilidad.
+**Stack:** Python · Markdown · CC BY-SA 4.0
 
-### Gestión ISO – OPCIONES *(en desarrollo)*
-Plataforma centralizada para la gestión integrada de los sistemas certificados, con interfaz interactiva de filtrado y búsqueda por norma. Compartida en modo lectura con el Comité de Seguridad de la Información (CSI) y sincronizada con la documentación en SharePoint.
-
-### Integración Documental – ISO 27001
-Estructuración modular de los controles y procedimientos de seguridad de la información: políticas, accesos, cambios, incidentes y gestión de activos.
+### [Vigía](https://github.com/seiler18/vigia-pc)
+Franja de escritorio con temperatura de GPU y CPU, FPS y RAM para jugar. Cuenta los FPS sin inyectarse en el juego, sin driver y sin pedir administrador; consume menos del 0,1 % de CPU.
+**Stack:** C# · WPF · .NET 10 · ETW
 
 📂 **Más detalles:** [Currículum Web](https://seiler18.github.io/Curriculo/)
 
@@ -190,5 +194,5 @@ Estructuración modular de los controles y procedimientos de seguridad de la inf
 💡 **Intereses:** automatización de procesos, transformación digital, sistemas integrados, seguridad de la información, continuidad del negocio y mejora continua.
 
 <p align="center">
-  <img src="https://github.com/seiler18/Curriculo/blob/main/assets/img/logo%20jesus%20seiler.jpeg" alt="Jesús Seiler Logo" style="width: 50%; max-width: 400px; height: auto;">
+  <img src="https://seiler18.github.io/Curriculo/assets/img/marca/isotipo.svg" alt="Logo de Jesús Seiler" width="160">
 </p>
