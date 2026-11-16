@@ -110,7 +110,7 @@ Una dimensión central de mi trabajo actual es la gestión, mantención e integr
 - **Datos para gerencia:** réplica del reporte oficial de contratos con 99,99 % de coincidencia; auditoría del costo promedio ponderado del ERP con 34/34 recepciones reproducidas.
 - **Automatización:** reportes semanales y mensuales desatendidos para gerencia y ventas; registro de consumos para ISO 14001.
 - **Contratos de arriendo:** a cargo del control administrativo y del cierre de la cartera.
-- **Sistema integrado de gestión:** auditor interno y miembro del comité. Certificación 22301 / 20000-1 y seguimiento 27001 sin no conformidades; Declaración de Aplicabilidad de 65 % a 88 % de implementación.
+- **Sistema integrado de gestión:** auditor interno y miembro del comité. Preparación de la certificación 22301 / 20000-1 y del seguimiento 27001: cierre de hallazgos, cuadre documental, Declaración de Aplicabilidad, matriz legal y gestión del cambio.
 - **Plataforma:** Active Directory, GPO, Entra ID, BitDefender, SharePoint.
 
 ### Nestlé Chile S.A.
